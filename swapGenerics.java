@@ -1,3 +1,6 @@
+/*
+This program makes use of Person class defined in another file "Person.java"
+*/
 public class swapGenerics{
 
     public static void swap(Object x, Object y)
